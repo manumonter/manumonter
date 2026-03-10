@@ -45,4 +45,10 @@ Minha missão é transformar dados em clareza e ações estratégicas, com forte
 
 ## 📈 Projetos
 
+**Projeto Órbita - Análise de dados**
 
+**Tema:** Análise exploratória | Validação de hipóteses | Insights e soluções
+
+**Stack:** SQL | Dbeaver | Power BI
+
+[Ver repositório](#)
