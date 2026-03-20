@@ -51,4 +51,4 @@ Minha missão é transformar dados em clareza e ações estratégicas, com forte
 
 **Stack:** SQL | Dbeaver | Power BI
 
-[Ver repositório](#)
+[Ver repositório](https://github.com/manumonter/Projeto-orbita-analise-de-dados)
