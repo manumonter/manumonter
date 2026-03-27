@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou a Manu!
-## 🚀 Data Analyst | Analytics Engineer | BI Developer
+## 🚀 Data Analyst | Analytics Engineer | BI Analyst
 Transformando problemas reais de negócio em modelos organizados, pipelines escaláveis, insights preditivos e dashboards de alto impacto.
 ## Sobre Mim 
 Sou Analista de Dados com atuação orientada à estruturação de produtos de dados, qualidade da informação e suporte à decisão estratégica baseada em evidências. Atuo ao longo de todo o ciclo analítico, desde a extração e transformação à modelagem, validação e disponibilização de dados para consumo executivo. Tenho experiência na construção de métricas padronizadas, definição de KPIs estratégicos, monitoramento de data quality e desenvolvimento de dashboards voltados à performance e governança.
