@@ -45,7 +45,7 @@ Minha missão é transformar dados em clareza e ações estratégicas, com forte
 
 ## 📈 Projetos
 
-**Projeto Órbita - Análise de dados**
+**1. Projeto Órbita - Análise de dados**
 
 **Tema:** Análise exploratória | Validação de hipóteses | Insights e soluções
 
@@ -53,10 +53,10 @@ Minha missão é transformar dados em clareza e ações estratégicas, com forte
 
 [Ver repositório](https://github.com/manumonter/Projeto-orbita-analise-de-dados)
 
-**Projeto The Look Ecommerce - Engenharia de dados**
+**2. Projeto The Look Ecommerce - Engenharia de dados**
 
 **Tema:** Engenharia de dados | Modelagem de dados | Insights e soluções
 
 **Stack:** SQL | BigQuery | Looker Studio
 
-[Ver repositório](https://github.com/manumonter/Projeto-orbita-analise-de-dados)
+[Ver repositório](https://github.com/manumonter/projeto-the-look)
