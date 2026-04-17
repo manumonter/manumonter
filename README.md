@@ -52,3 +52,11 @@ Minha missão é transformar dados em clareza e ações estratégicas, com forte
 **Stack:** SQL | Dbeaver | Power BI
 
 [Ver repositório](https://github.com/manumonter/Projeto-orbita-analise-de-dados)
+
+**Projeto The Look Ecommerce - Engenharia de dados**
+
+**Tema:** Engenharia de dados | Modelagem de dados | Insights e soluções
+
+**Stack:** SQL | BigQuery | Looker Studio
+
+[Ver repositório](https://github.com/manumonter/Projeto-orbita-analise-de-dados)
